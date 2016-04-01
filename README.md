@@ -1,5 +1,5 @@
-# The Meteor Chef - Base
-A starting point for Meteor apps.
+# NCAA Football 2016 Pickem League
+A Meteor Application created during Rosetta Moonshine
 
 <table>
   <tbody>
@@ -14,5 +14,3 @@ A starting point for Meteor apps.
   </tbody>
 </table>
 
-[Read the Documentation](http://themeteorchef.com/base)
-# pickem
